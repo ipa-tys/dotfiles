@@ -17,6 +17,7 @@ set fileformat=unix
 inoremap jk <ESC>
 let mapleader =' '
 
+
 call plug#begin('~/.vim/plugged')
 
 Plug 'morhetz/gruvbox'
